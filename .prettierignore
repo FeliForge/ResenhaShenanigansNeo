@@ -2,5 +2,4 @@ node_modules
 dist
 .wrangler
 coverage
-*.min.js
 bun.lock
